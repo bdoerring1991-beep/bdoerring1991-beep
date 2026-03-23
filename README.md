@@ -1,16 +1,33 @@
-## Hi there 👋
+# Hi, I'm Blake👋
 
-<!--
-**bdoerring1991-beep/bdoerring1991-beep** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an aspiring AI product manager focused on building LLM-powered features for enterprise SaaS.
 
-Here are some ideas to get you started:
+Currently working on an ERP Implementation Services Deliverable Agent.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## What I'm Building Here
+
+- 📋 **Product specs** for AI features — PRDs, user stories, success metrics
+- 🧪 **Prompt experiments** — testing and documenting what works across AI APIs
+- 🔍 **AI product teardowns** — analyzing what real AI products do well and poorly
+- 🛠️ **Working prototypes** — small AI tools built to learn by doing
+
+---
+
+## Areas I Work In
+
+`Large Language Models` `AI Product Strategy` `Prompt Engineering`
+`User Research` `Evaluation Frameworks` `AI Ethics & Safety`
+
+---
+
+## Currently Learning
+
+- How to evaluate LLM outputs at scale
+- Building lightweight AI prototypes with the Anthropic API
+- No-code AI app development
+
+---
+
+📫 **Reach me:** https://www.linkedin.com/in/blake-doerring-68b886a9/
